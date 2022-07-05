@@ -10,13 +10,6 @@ export class CreateUserDto {
   @IsNotEmpty()
   public password: string;
 
-  @IsString()
-  @IsNotEmpty()
-  public first_name: string;
-
-  @IsString()
-  public last_name: string;
-
   @IsNotEmpty()
   public type: USER_TYPE;
 }
