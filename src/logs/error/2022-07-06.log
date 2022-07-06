@@ -1,0 +1,24 @@
+2022-07-06 12:44:27 error: uncaughtException: Route.get() requires a callback function but got a [object Null]
+Error: Route.get() requires a callback function but got a [object Null]
+    at Route.<computed> [as get] (/Users/vishal/Code/Projects/ecommerce/node_modules/express/lib/router/route.js:211:15)
+    at Function.proto.<computed> [as get] (/Users/vishal/Code/Projects/ecommerce/node_modules/express/lib/router/index.js:521:19)
+    at BuyerRoute.initializeRoutes (/Users/vishal/Code/Projects/ecommerce/src/routes/buyers.route.ts:15:17)
+    at new BuyerRoute (/Users/vishal/Code/Projects/ecommerce/src/routes/buyers.route.ts:11:10)
+    at Object.<anonymous> (/Users/vishal/Code/Projects/ecommerce/src/server.ts:11:75)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+    at Module.m._compile (/Users/vishal/Code/Projects/ecommerce/node_modules/ts-node/src/index.ts:1597:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+    at Object.require.extensions.<computed> [as .ts] (/Users/vishal/Code/Projects/ecommerce/node_modules/ts-node/src/index.ts:1600:12)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+2022-07-06 12:44:32 error: uncaughtException: Route.get() requires a callback function but got a [object Null]
+Error: Route.get() requires a callback function but got a [object Null]
+    at Route.<computed> [as get] (/Users/vishal/Code/Projects/ecommerce/node_modules/express/lib/router/route.js:211:15)
+    at Function.proto.<computed> [as get] (/Users/vishal/Code/Projects/ecommerce/node_modules/express/lib/router/index.js:521:19)
+    at BuyerRoute.initializeRoutes (/Users/vishal/Code/Projects/ecommerce/src/routes/buyers.route.ts:15:17)
+    at new BuyerRoute (/Users/vishal/Code/Projects/ecommerce/src/routes/buyers.route.ts:11:10)
+    at Object.<anonymous> (/Users/vishal/Code/Projects/ecommerce/src/server.ts:11:75)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+    at Module.m._compile (/Users/vishal/Code/Projects/ecommerce/node_modules/ts-node/src/index.ts:1597:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+    at Object.require.extensions.<computed> [as .ts] (/Users/vishal/Code/Projects/ecommerce/node_modules/ts-node/src/index.ts:1600:12)
+    at Module.load (node:internal/modules/cjs/loader:981:32)

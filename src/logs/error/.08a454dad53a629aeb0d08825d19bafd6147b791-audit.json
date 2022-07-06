@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": false,
+        "amount": 30
+    },
+    "auditLog": "/Users/vishal/Code/Projects/ecommerce/src/logs/error/.08a454dad53a629aeb0d08825d19bafd6147b791-audit.json",
+    "files": [
+        {
+            "date": 1657091666079,
+            "name": "/Users/vishal/Code/Projects/ecommerce/src/logs/error/2022-07-06.log",
+            "hash": "5e65a48fc4af9260fbb6a6e45e76cd959e346f1db94f6788b270d71683134358"
+        }
+    ],
+    "hashType": "sha256"
+}
